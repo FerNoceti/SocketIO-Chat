@@ -56,7 +56,7 @@ function App() {
           ref={inputRef}
         />
         <button className='submit' type="submit">
-          <img src='public\assets\sent.png'/>
+          <img src='https://i.imgur.com/5yWRYaK.png'/>
         </button>
       </form>
 
